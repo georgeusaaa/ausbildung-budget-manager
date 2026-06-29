@@ -69,7 +69,7 @@ class MainWindow(QMainWindow):
         container.setLayout(layout)
         self.setCentralWidget(container)
 
-    # 4. Твоя отличная математическая логика
+    # 4. Логика
     def count(self):
         try:
             val2 = float(self.input_2.text().strip() or 0)
