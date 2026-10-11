@@ -21,4 +21,4 @@ cd ausbildung-budget-manager
 pip install -r requirements.txt
 
 # Запустить приложение
-python budget_manager.py
+python main.py
